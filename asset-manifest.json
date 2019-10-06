@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Mini_Online_Store/static/css/main.20fb29a8.chunk.css",
+    "main.js": "/Mini_Online_Store/static/js/main.b7547ac0.chunk.js",
+    "main.js.map": "/Mini_Online_Store/static/js/main.b7547ac0.chunk.js.map",
+    "runtime~main.js": "/Mini_Online_Store/static/js/runtime~main.7458aed7.js",
+    "runtime~main.js.map": "/Mini_Online_Store/static/js/runtime~main.7458aed7.js.map",
+    "static/css/2.0624914a.chunk.css": "/Mini_Online_Store/static/css/2.0624914a.chunk.css",
+    "static/js/2.efd7c42d.chunk.js": "/Mini_Online_Store/static/js/2.efd7c42d.chunk.js",
+    "static/js/2.efd7c42d.chunk.js.map": "/Mini_Online_Store/static/js/2.efd7c42d.chunk.js.map",
+    "index.html": "/Mini_Online_Store/index.html",
+    "precache-manifest.355c5628c9b8e1e5f9eaefa4e0154536.js": "/Mini_Online_Store/precache-manifest.355c5628c9b8e1e5f9eaefa4e0154536.js",
+    "service-worker.js": "/Mini_Online_Store/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/Mini_Online_Store/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.20fb29a8.chunk.css.map": "/Mini_Online_Store/static/css/main.20fb29a8.chunk.css.map",
+    "static/media/logo.svg": "/Mini_Online_Store/static/media/logo.9f7e506d.svg"
+  }
+}
